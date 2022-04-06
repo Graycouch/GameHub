@@ -1,0 +1,187 @@
+.Rightbar {
+    flex: 3.5;
+}
+
+.RightbarWrapper {
+    padding: 40px 20px 0 0;
+}
+
+.ControllerContainer {
+    display: flex;
+    align-items: center;
+}
+
+.ControllerImage {
+    width: 30px;
+    height: 25px;
+    margin-right: 10px;
+}
+
+.ControllerText {
+    font-weight: 400;
+    font-size: 15;
+}
+
+.RightbarAd {
+    width: 100%;
+    border-radius: 10px;
+    margin-top: 50px;
+    margin-bottom: 5px;
+}
+
+.AdText {
+    font-weight: 400;
+    font-size: 15;
+}
+
+.AdBoldText {
+    cursor: pointer;
+    font-weight: 400;
+    font-size: 15;
+    color: black;
+}
+
+.RightbarTitle {
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+.RightbarFriendList {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+.RightbarTitle2 {
+    font-style: 18px;
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+
+.RightbarInformation {
+    margin-bottom: 30px;
+}
+
+.RightbarInformationItem {
+    margin-bottom: 10px;
+}
+
+.RightbarButton{
+    background: none;
+	color: inherit;
+	border: none;
+	font: inherit;
+	cursor: pointer;
+	outline: inherit;
+    display: flex;
+}
+
+.RightbarInformationKey {
+    font-weight: 500;
+    margin-right: 7px;
+    color: #555;
+}
+
+.RightbarGamingImage{
+    margin-right: 7px;
+    height: 25px;
+    width: 25px;
+}
+
+.RightbarInformationValue {
+    font-weight: 400;
+}
+
+.RightbarInformationGamingValue {
+    font-weight: 400;
+    position: absolute;
+    padding-top: 4px;
+}
+
+.RightbarFollowingList {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.RightbarFollowing {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+
+.RightbarFollowingImage {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 5px;
+}
+
+.form-popup {
+    display: none;
+    position: absolute;
+    align-items: center;
+    border: 5px solid black;
+    right: 620px;
+    z-index: 9;
+    top: 50px;
+  }
+  
+  .form-container {
+    max-width: 300px;
+    padding: 10px;
+    background-color: white;
+  }
+  
+  .form-container input[type=text], .form-container input[type=password] {
+    width: 90%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    border: none;
+    background: #f1f1f1;
+  }
+  
+  .form-container input[type=text]:focus, .form-container input[type=password]:focus {
+    background-color: #ddd;
+    outline: none;
+  }
+  
+  .form-container .button {
+    background-color: grey;
+    color: white;
+    padding: 16px 20px;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    margin-bottom: 10px;
+    opacity: 0.9;
+    margin-top: 10px;
+  }
+  
+  .form-container .cancel {
+    background-color: black;
+  }
+  
+  .form-container .button:hover, .open-button:hover {
+    opacity: 1;
+  }
+
+  .RightbarFollowButton{
+      margin-top: 30px;
+      margin-bottom: 10px;
+      border: none;
+      background-color: grey;
+      color: white;
+      border-radius: 5px;
+      padding: 5px 10px;
+      display: flex;
+      align-items: center;
+      cursor: pointer;
+      font-size: 16px;
+      font-weight: 500;
+  }
+
+  .RightbarFollowButton:focus{
+      outline: none;
+  }
