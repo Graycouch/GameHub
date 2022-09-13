@@ -1,4 +1,4 @@
-# CSC-3380-Project
+# Gamehub
 
 1) You have to download node.js, so that you can launch the projects and use a command called npm: you can find the download link here: https://nodejs.org/en/download/
 
