@@ -1,5 +1,11 @@
 # Gamehub
 
+
+
+https://user-images.githubusercontent.com/65471490/207757097-0efa940c-a3e9-41e6-92ca-e0ee3a4cdf8d.mp4
+
+
+
 1) You have to download node.js, so that you can launch the projects and use a command called npm: you can find the download link here: https://nodejs.org/en/download/
 
 2) Then either by directly downloading the code or using github desktop, you pull the repository onto your computer
