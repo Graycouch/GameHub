@@ -12,7 +12,7 @@ https://user-images.githubusercontent.com/65471490/207757097-0efa940c-a3e9-41e6-
 
 3) You then download visual studio code and on the left bar there's this tab called extensions, download npm from there, you can find visual studio code here: https://code.visualstudio.com/download
 
-4) Once you have visual studio code and npm downloaded, you then want to open the folder in vs code
+4) Once you have visual studio code and npm downloaded, you then want to open the project folder in vs code
 
 5) You should now have all the code available on visual studio code, you then want to open three terminals within vs code and cd into the node-rest-api folder in one of the terminals, cd into socket in the second one, and then cd into the react-website-design folder in the third one
 
